@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello
 
-<!--
-**MattiStrang/mattistrang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋
 
-Here are some ideas to get you started:
+I am a student at the Lab - University of Applied Sciences, where I am currently learning about IoT and embedded systems. This repository showcases my projects and learning journey in these exciting fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Passionate about technology and innovation.
+- 📚 Eager to explore cool technologies.
+- 🤖 Always looking for new challenges and opportunities to learn.
+
+Feel free to explore my projects and don't hesitate to reach out!
+
+## Get in Touch
+
+feel free to email me at [matti.strang@student.lab.fi](mailto:matti.strang@student.lab.fi).
+
+Thank you for visiting!
